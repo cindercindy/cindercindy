@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Data Science & Analytics Projects:</h2>
 
-  - [Digital Library of Poems: A Digital Asset Management Project](https://github.com/cindercindy/webpage)
+  - [Digital Library of Poems: A Digital Asset Management Project](https://github.com/cindercindy/Digital-Library-of-Poems)
 
 <h2> 🤳 Connect with me:</h2>
 
