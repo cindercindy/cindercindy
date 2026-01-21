@@ -1,4 +1,4 @@
-<h1>Hi, I'm Cindy! <br/><a href="https://www.linkedin.com/in/cindynguyen-data/">Aspiring Data Analyst & Student</a></h1>
+<h1>Hi, I'm Cindy! <br/><a href="https://www.linkedin.com/in/cindynguyen-data/">An Aspiring Data Analyst & Student</a></h1>
 
 <h2>👨‍💻 Data Science & Analytics Projects:</h2>
 
