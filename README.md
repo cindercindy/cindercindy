@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Data Science & Analytics Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/cindercindy/vehicle-sales-data)
+  - [Digital Library of Poems: A Digital Asset Management Project](https://github.com/cindercindy/webpage)
 
 <h2> 🤳 Connect with me:</h2>
 
